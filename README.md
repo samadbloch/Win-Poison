@@ -9,3 +9,6 @@ How To Use:
 2) compile script with pyinstaller (pyinstaller Poison.py --onefile --noconsole)
 3) Listen on netcat with specified port (nc -lvnp 4444)
 4) Run exe and boom, you got a connection
+
+#ScreenShot
+![](https://raw.githubusercontent.com/samadbloch/Win-Poison/main/img.png)
