@@ -10,5 +10,7 @@ How To Use:
 3) Listen on netcat with specified port (nc -lvnp 4444)
 4) Run exe and boom, you got a connection
 
+(Use windows to compile a script, Do not compile it on linux)
+
 ## ScreenShot
 ![](https://raw.githubusercontent.com/samadbloch/Win-Poison/main/img.png)
