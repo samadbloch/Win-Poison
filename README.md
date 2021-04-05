@@ -15,4 +15,7 @@ How To Use:
 ## ScreenShot
 ![](https://raw.githubusercontent.com/samadbloch/Win-Poison/main/img.png)
 
-### Do Not Upload This Code On Any Online Virus Scanner Website such as virustotal or other.
+### Do Not Upload This Code On Any Online Virus Scanner Website such as virustotal or Use AntiScan To Scan For Detection.
+
+
+# https://antiscan.me/scan/new/result?id=tzMkKSYk4NEt
