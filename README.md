@@ -14,3 +14,5 @@ How To Use:
 
 ## ScreenShot
 ![](https://raw.githubusercontent.com/samadbloch/Win-Poison/main/img.png)
+
+### Do Not Upload This Code On Any Online Virus Scanner Website such as virustotal or other.
